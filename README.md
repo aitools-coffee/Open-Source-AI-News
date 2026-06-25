@@ -83,7 +83,7 @@ Maintained by **[AITools.coffee](https://aitools.coffee)** &mdash; The Only Open
 | [AI For Developers](https://aifordevelopers.substack.com) | Focused on APIs, libraries, and dev tools for integrating AI into software workflows. |
 | [The ML Engineer](https://ethical.institute/mle.html) | MLOps and production engineering: open-source frameworks, reproducibility, and deployment best practices. |
 | [AI++ Newsletter](https://news.langflow.org/) | News for developers covering agents, MCP, and the latest in AI infrastructure. |
-| [Artificial Intelligence Weekly](http://aiweekly.co/) | A weekly collection of the best AI and machine learning news and resources. |
+| [AI Weekly](https://aiweekly.co) | The longest-running independent AI news briefing, curated since 2015 — the few stories that matter, 3x/week, for 44,000+ professionals. |
 
 ## Data Science & Machine Learning
 
