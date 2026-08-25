@@ -108,6 +108,7 @@ Maintained by **[AITools.coffee](https://aitools.coffee)** &mdash; The Only Open
 | [The Productivity Newsletter](https://newsletter.productivity.directory) | Tips and tools for building a more productive life with AI. |
 | [Prompt Advance](https://promptadvance.club/) | Get smarter about ChatGPT with advanced prompting techniques. |
 | [Prompts Daily](https://www.neatprompts.com/) | Tools and tips to become a marketing and productivity genius at work. |
+| [The Autonomous Edge](https://buttondown.com/TheAutonomousEdge?utm_source=github.com/aitools-coffee/Open-Source-AI-News) | Weekly briefing on AI agents and enterprise automation: real deployments, funding, security disclosures, and the adoption data behind the headlines. |
 
 ## Policy, Ethics & AI Governance
 
