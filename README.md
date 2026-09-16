@@ -57,6 +57,7 @@ Maintained by **[AITools.coffee](https://aitools.coffee)** &mdash; The Only Open
 | [Augmented Coding Weekly](https://colineberhardt.github.io/augmented-coding-weekly/) | The latest news about AI and developer tools, focusing on how AI is changing the software industry. |
 | [Finxter AI Nuggets](https://blog.finxter.com/ai/) | Powerful AI tools and productivity tips delivered as a free daily email. |
 | [Altern AI Tools Newsletter](https://alternainewsletter.substack.com/s/ai-tools) | Curated picks of cool AI tools across categories. |
+| [AI Tools Radar Newsletter](https://aitoolsradar.com/en/newsletter) | Curated updates on newly launched AI tools, practical workflows, and product discovery across categories. |
 
 ## Research & Technical Deep Dives
 
