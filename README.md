@@ -44,6 +44,7 @@ Maintained by **[AITools.coffee](https://aitools.coffee)** &mdash; The Only Open
 | [AI Hustle](https://aihustle.beehiiv.com/) | Stay up to date with the latest news and developments in AI. |
 | [The Loz Letter](https://www.loz.ai/) | Insights and news into the wonderful world of AI. |
 | [Big Brain](https://www.bigbraindaily.com/) | Trending AI news, jobs, and tools delivered in 3 minutes per day. |
+| [Agents Daily](https://daily.rclabs.in/) | Free daily AI news brief at 7am Berlin time: model releases, funding, API prices and research, each item linked to its source. |
 
 ## AI Tools & Product Discovery
 
